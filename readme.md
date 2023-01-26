@@ -13,7 +13,7 @@ git lesson
 
 ```c
 int mai() {
-    printf("d")
+    printf("d");
 }
 ```
 
